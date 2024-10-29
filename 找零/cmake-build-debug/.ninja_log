@@ -1,0 +1,10 @@
+# ninja log v6
+499	595	1730187309702035111	getChange	8b814f698a7f21ff
+642	892	1730185742169234846	CMakeFiles/getChange.dir/State_50.cpp.o	c4c8adea04778707
+3	645	1730185741530307980	CMakeFiles/getChange.dir/State_20.cpp.o	adc1331141f834fe
+3	642	1730185741530174145	CMakeFiles/getChange.dir/State_10.cpp.o	456937b440cbf4ca
+2	61	1730187772345672379	build.ninja	b61305bf56cd1090
+3	645	1730185741530047352	CMakeFiles/getChange.dir/State_5.cpp.o	819a66425c69cf70
+3	644	1730185741529908100	CMakeFiles/getChange.dir/State_2.cpp.o	b6177bfbc2be4474
+3	644	1730185741529732139	CMakeFiles/getChange.dir/State_1.cpp.o	5c6b0da761321cc6
+9	498	1730187309211990808	CMakeFiles/getChange.dir/main.cpp.o	ab4736e59b751eb6
